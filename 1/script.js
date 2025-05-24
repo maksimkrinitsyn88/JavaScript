@@ -15,3 +15,4 @@ const lastFilmRate = prompt('На сколько оцените его?', '');
 
 personalMovieDB.movies[lastFilm] = lastFilmRate;
 console.log(personalMovieDB);
+
