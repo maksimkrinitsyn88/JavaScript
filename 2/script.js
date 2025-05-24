@@ -93,3 +93,5 @@ function fifthTask() {
     // Не трогаем
     return arrayOfNumbers;
 }
+
+фыпфп
